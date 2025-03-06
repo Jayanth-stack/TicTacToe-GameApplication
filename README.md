@@ -1,6 +1,3 @@
-Below is a well-structured `README.md` file for your Tic-Tac-Toe game repository. It includes an overview, setup instructions, features, file structure, and optional enhancements—perfect for anyone cloning your project.
-
----
 
 # Tic-Tac-Toe with Flask
 
