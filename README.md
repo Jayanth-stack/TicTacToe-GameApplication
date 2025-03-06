@@ -78,6 +78,3 @@ This project is open-source and available under the MIT License.
 ## Contributions
 Feel free to fork, submit pull requests, or open issues for bugs and feature requests!
 
----
-
-Save this as `README.md` in your `tic_tac_toe/` directory. It’s concise, informative, and follows standard conventions for GitHub repositories. Let me know if you’d like to adjust anything!
